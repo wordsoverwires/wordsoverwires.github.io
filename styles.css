@@ -1,0 +1,55 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Hero section with background image */
+.hero {
+    flex: 1;
+    background-image: url('img/bpl-interior.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Logo text styling */
+.logo-text {
+    font-family: 'Monoton', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 13rem;
+    line-height: 1.2;
+}
+
+/* Footer styling */
+.contact-info {
+    background-color: #f5f0e1; /* Light cream color - adjust as needed */
+    padding: 2rem;
+    text-align: center;
+}
+
+.company-name {
+    color: #55566b; /* Adjust this yellow to match your design */
+    margin-bottom: 0.5rem;
+}
+
+.email, .address {
+    color:#55566b;
+}
