@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'roboto mono', monospace;
     line-height: 1.6;
     min-height: 100vh;
 }
@@ -40,16 +40,16 @@ body {
 
 /* Footer styling */
 .contact-info {
-    background-color: #f5f0e1; /* Light cream color - adjust as needed */
+    background-color: #A0805E;
     padding: 2rem;
     text-align: center;
 }
 
 .company-name {
-    color: #55566b; /* Adjust this yellow to match your design */
+    color: #F7FF78; /* Adjust this yellow to match your design */
     margin-bottom: 0.5rem;
 }
 
 .email, .address {
-    color:#55566b;
+    color:#F7F9D6;
 }
