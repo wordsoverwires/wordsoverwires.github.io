@@ -47,7 +47,6 @@ body {
 
 .company-name {
     color: #FCF75E;
-    margin-bottom: 0.5rem;
 }
 
 .email {
@@ -57,13 +56,14 @@ body {
 }
 .address {
     color: #F7F9D6;
+    margin-top: 2rem;
     margin-bottom: 0;
 }
 .attribution {
     color: #000000;
-    font-style: light italic;
+    font-style: italic;
     font-weight: 100;
-    font-size: 0.9em;
+    font-size: 0.8em;
     margin-top: 2rem;
     max-width: 800px;
     margin-left: auto;
