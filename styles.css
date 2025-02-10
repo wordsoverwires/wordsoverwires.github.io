@@ -40,7 +40,7 @@ body {
 
 /* Footer styling */
 .contact-info {
-    background-color: #A0805E;
+    background-color: #c6b4a1;
     padding: 2rem;
     text-align: center;
 }
@@ -59,7 +59,7 @@ body {
 }
 .attribution {
     color: #000000;
-    font-style: italic;
+    font-style: light italic;
     font-size: 0.9em;
     margin-top: 2rem;
     max-width: 800px;
