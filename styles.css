@@ -46,10 +46,24 @@ body {
 }
 
 .company-name {
-    color: #F7FF78; /* Adjust this yellow to match your design */
+    color: #FCF75E;
     margin-bottom: 0.5rem;
 }
 
-.email, .address {
-    color:#F7F9D6;
+.email {
+    color:#000000;
+}
+.address {
+    color: #F7F9D6;
+    margin-bottom: 0;
+}
+.attribution {
+    color: #000000;
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 2rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.8;
 }
