@@ -52,6 +52,7 @@ body {
 
 .email {
     color:#000000;
+    font-weight: 100;
 }
 .address {
     color: #F7F9D6;
@@ -60,6 +61,7 @@ body {
 .attribution {
     color: #000000;
     font-style: light italic;
+    font-weight: 100;
     font-size: 0.9em;
     margin-top: 2rem;
     max-width: 800px;
